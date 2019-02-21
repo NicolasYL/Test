@@ -1,7 +1,7 @@
 <type>(<scope>): <subject>
-// 空一行
+#// 空一行
 <body>
-// 空一行
+#// 空一行
 <footer>
 
 # type 说明 commit 的类别，只允许使用下面7个标识
